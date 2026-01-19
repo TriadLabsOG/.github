@@ -20,7 +20,7 @@ Somos um ecossistema focado no aprendizado prático. Unimos a curiosidade acadê
 
 ---
 
-### 🛠️ Stacks em aprendizado de Poder
+### 🛠️ Stacks em aprendizado
 `Java` • `Kotlin` • `TypeScript` • `Docker` • `PostgreSQL` • `Python`
 
 ---
