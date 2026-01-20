@@ -21,6 +21,6 @@ Somos um ecossistema focado no aprendizado prático. Unimos a curiosidade acadê
 ---
 
 ### 🛠️ Stacks em aprendizado
-`Java` • `Kotlin` • `TypeScript` • `Docker` • `PostgreSQL` • `Python`
+`Java` • `Kotlin` • `Javascript` • `HTML` • `CSS` • `Docker` • `SQL` • `Python`
 
 ---
